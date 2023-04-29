@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Fraternity Name</title>
+	<title> ETA THETA EPSILON</title>
 	<!-- Add Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
 	<!-- Add CSS Styles -->
@@ -110,7 +110,7 @@
 <body>
 	<header class="header">
 		<div class="container">
-			<h1>Fraternity Name</h1>
+			<h1>HOE</h1>
 		</div>
 	</header>
 	<nav class
