@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Fraternity Name</title>
+	<!-- Add Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
+	<!-- Add CSS Styles -->
+	<style>
+		body {
+			background-color: #fff;
+			color: #333;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			margin: 0;
+			padding: 0;
+		}
+		.container {
+			margin: 0 auto;
+			max-width: 1200px;
+			padding: 0 15px;
+			text-align: center;
+		}
+		.header {
+			background-color: #fff;
+			border-bottom: 2px solid #5cb85c;
+			padding: 20px 0;
+		}
+		.header h1 {
+			font-size: 32px;
+			font-weight: 700;
+			margin: 0;
+		}
+		.navigation {
+			background-color: #5cb85c;
+			padding: 10px 0;
+		}
+		.navigation ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+		.navigation li {
+			display: inline-block;
+			margin: 0 10px;
+		}
+		.navigation li a {
+			color: #fff;
+			text-decoration: none;
+			padding: 10px;
+			transition: all 0.2s ease;
+		}
+		.navigation li a:hover {
+			background-color: #fff;
+			color: #5cb85c;
+		}
+		.hero {
+			background-image: url('path-to-image.jpg');
+			background-size: cover;
+			background-position: center;
+			height: 500px;
+			position: relative;
+			margin-bottom: 50px;
+		}
+		.hero h2 {
+			color: #fff;
+			font-size: 48px;
+			font-weight: 700;
+			line-height: 1.2;
+			margin: 0;
+			padding: 0;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+		}
+		.content {
+			margin-bottom: 50px;
+			text-align: justify;
+		}
+		.content h3 {
+			color: #5cb85c;
+			font-size: 28px;
+			font-weight: 600;
+			margin-top: 0;
+			text-align: center;
+		}
+		.content p {
+			margin-bottom: 20px;
+		}
+		.content img {
+			display: block;
+			margin: 0 auto;
+			max-width: 100%;
+		}
+		.footer {
+			background-color: #5cb85c;
+			color: #fff;
+			padding: 20px 0;
+			text-align: center;
+		}
+		.footer p {
+			margin: 0;
+			padding: 0;
+		}
+	</style>
+</head>
+<body>
+	<header class="header">
+		<div class="container">
+			<h1>Fraternity Name</h1>
+		</div>
+	</header>
+	<nav class
